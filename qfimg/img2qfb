@@ -245,6 +245,8 @@ def arguments():
 def main():
     args = arguments()
     pallet = DEFAULT_MODE_PALLETS[QuickFortModes.DIG]
+    if args.mode == 'build':
+        pallet = DEFAULT_MODE_PALLETS[QuickFortModes.BUILD]
     mapper = ImageMapper(args.img_path, strict=args.strict, color_map=pallet)
     qf_map = mapper.get_qf_map()
     print(qf_map.get_blueprint_csv(mode=args.mode, z_repeat=args.z_repeat))
