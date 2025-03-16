@@ -56,6 +56,7 @@ class QuickFortCodes(Enum):
     DIG_UP_DOWN_STAIRS     = 'i'
     DIG_UP_STAIRS          = 'u'
     DIG_UP_RAMP            = 'r'
+    DIG_CHOP_TREES         = 't'
 
     # Building codes
     BUILD_WALL             = 'Cw'
@@ -79,6 +80,7 @@ DEFAULT_MODE_PALLETS = {
         Colors.BLACK  : QuickFortCodes.DIG_ENGRAVE_STONE,
         Colors.CYAN   : QuickFortCodes.DIG_UP_DOWN_STAIRS,
         Colors.GREEN  : QuickFortCodes.DIG_CHANNEL,
+        Colors.PURPLE : QuickFortCodes.DIG_CHOP_TREES,
     },
     QuickFortModes.BUILD : {
         Colors.WHITE  : QuickFortCodes.EMPTY,

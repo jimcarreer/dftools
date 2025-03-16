@@ -1,0 +1,42 @@
+#dig start(33;21)
+ , , , , , , , , , , , , , , , , , , , , , , , , , ,e,e,e,e,e, , , ,e,e,e,e,e, , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , ,e,e,d,d,d,e,e, ,e,e,d,d,d,e,e, , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , ,e,e,d,d,d,d,d,e,e,e,d,d,d,d,d,e,e, , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , ,e,d,d,d,d,d,d,d,e,d,d,d,d,d,d,d,e, , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , ,e,e,e,e,e,e,d,d,d,d,d,d,d,e,d,d,d,d,d,d,d,e,e,e,e,e,e, , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , ,e,e,d,d,d,e,e,d,d,d,d,d,d,d,e,d,d,d,d,d,d,d,e,e,d,d,d,e,e, , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , ,e,e,d,d,d,d,d,e,e,d,d,d,d,d,e,e,e,d,d,d,d,d,e,e,d,d,d,d,d,e,e, , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , ,e,d,d,d,d,d,d,d,e,e,d,d,d,e,e,e,e,e,d,d,d,e,e,d,d,d,d,d,d,d,e, , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , ,e,d,d,d,d,d,d,d,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,d,d,d,d,d,d,d,e, , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , ,e,d,d,d,d,d,d,d,e,e,e,d,d,d,d,d,d,d,d,d,e,e,e,d,d,d,d,d,d,d,e, , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , ,e,e,e,e,e,d,d,d,d,d,e,e,e,d,d,d,d,d,d,d,d,d,d,d,e,e,e,d,d,d,d,d,e,e,e,e,e, , , , , , , , , , , , , , 
+ , , , , , , , , , , , , ,e,e,d,d,d,e,e,d,d,d,e,e,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,e,e,d,d,d,e,e,d,d,d,e,e, , , , , , , , , , , , , 
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,d,d,d,d,d,e,e,e,e,e,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,e,e,e,e,e,d,d,d,d,d,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+e,d,d,d,d,d,d,d,d,d,d,d,e,d,d,d,d,d,d,d,e,d,e,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,e,d,e,d,d,d,d,d,d,d,e,d,d,d,e,d,d,d,e,d,d,d,e
+e,d,d,d,d,d,d,d,d,d,d,d,e,d,d,d,d,d,d,d,e,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,e,d,d,d,d,d,d,d,e,e,d,e,e,e,d,e,e,e,d,e,e
+e,d,d,d,d,d,d,d,d,d,d,d,e,d,d,d,d,d,d,d,e,e,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,e,e,d,d,d,d,d,d,d,e,d,d,d,d,d,d,d,d,d,d,d,e
+e,d,d,d,d,d,d,d,d,d,d,d,e,e,d,d,d,d,d,e,e,e,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,e,e,e,d,d,d,d,d,e,e,d,d,d,d,d,e,e,e,e,e,d,e
+e,d,d,d,d,d,d,d,d,d,d,d,d,e,e,d,d,d,e,e,e,d,d,d,d,d,d,d,d,i,d,d,d,d,d,i,d,d,d,d,d,d,d,d,e,e,e,d,d,d,e,e,d,d,d,d,d,d,e,d,e,d,e,d,e
+e,d,d,d,d,d,d,d,d,d,d,d,d,d,e,e,e,e,e,d,d,d,d,d,d,d,d,d,d,d,e,e,e,e,e,d,d,d,d,d,d,d,d,d,d,d,e,e,e,e,e,d,d,d,d,d,d,d,d,d,e,d,d,d,e
+e,d,d,d,d,d,d,d,d,d,d,d,d,d,e,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,e,e,e,e,e,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,e,d,d,d,d,d,d,d,e,d,e,d,e,d,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,e,e, ,e,e,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,e,d,d,d,d,d,d,d,e,e,e,e,e,d,e
+e,d,d,d,d,d,d,d,d,d,d,d,d,d,e,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,e,e,e,e,e,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,e,d,d,d,d,d,d,d,e,d,e,d,e,d,e
+e,d,d,d,d,d,d,d,d,d,d,d,d,d,e,e,e,e,e,d,d,d,d,d,d,d,d,d,d,d,e,e,e,e,e,d,d,d,d,d,d,d,d,d,d,d,e,e,e,e,e,d,d,d,d,d,d,d,d,d,e,d,d,d,e
+e,d,d,d,d,d,d,d,d,d,d,d,d,e,e,d,d,d,e,e,e,d,d,d,d,d,d,d,d,i,d,d,d,d,d,i,d,d,d,d,d,d,d,d,e,e,e,d,d,d,e,e,d,d,d,d,d,d,e,d,e,d,e,d,e
+e,d,d,d,d,d,d,d,d,d,d,d,e,e,d,d,d,d,d,e,e,e,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,e,e,e,d,d,d,d,d,e,e,d,d,d,d,d,e,e,e,e,e,d,e
+e,d,d,d,d,d,d,d,d,d,d,d,e,d,d,d,d,d,d,d,e,e,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,e,e,d,d,d,d,d,d,d,e,d,d,d,d,d,d,d,d,d,d,d,e
+e,d,d,d,d,d,d,d,d,d,d,d,e,d,d,d,d,d,d,d,e,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,e,d,d,d,d,d,d,d,e,e,d,e,e,e,d,e,e,e,d,e,e
+e,d,d,d,d,d,d,d,d,d,d,d,e,d,d,d,d,d,d,d,e,d,e,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,e,d,e,d,d,d,d,d,d,d,e,d,d,d,e,d,d,d,e,d,d,d,e
+e,e,e,e,e,e,e,e,e,e,e,e,e,e,d,d,d,d,d,e,e,e,e,e,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,e,e,e,e,e,d,d,d,d,d,e,e,e,e,e,e,e,e,e,e,e,e,e,e
+ , , , , , , , , , , , , ,e,e,d,d,d,e,e,d,d,d,e,e,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,e,e,d,d,d,e,e,d,d,d,e,e, , , , , , , , , , , , , 
+ , , , , , , , , , , , , , ,e,e,e,e,e,d,d,d,d,d,e,e,e,d,d,d,d,d,d,d,d,d,d,d,e,e,e,d,d,d,d,d,e,e,e,e,e, , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , ,e,d,d,d,d,d,d,d,e,e,e,d,d,d,d,d,d,d,d,d,e,e,e,d,d,d,d,d,d,d,e, , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , ,e,d,d,d,d,d,d,d,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,d,d,d,d,d,d,d,e, , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , ,e,d,d,d,d,d,d,d,e,e,d,d,d,e,e,e,e,e,d,d,d,e,e,d,d,d,d,d,d,d,e, , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , ,e,e,d,d,d,d,d,e,e,d,d,d,d,d,e,e,e,d,d,d,d,d,e,e,d,d,d,d,d,e,e, , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , ,e,e,d,d,d,e,e,d,d,d,d,d,d,d,e,d,d,d,d,d,d,d,e,e,d,d,d,e,e, , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , ,e,e,e,e,e,e,d,d,d,d,d,d,d,e,d,d,d,d,d,d,d,e,e,e,e,e,e, , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , ,e,d,d,d,d,d,d,d,e,d,d,d,d,d,d,d,e, , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , ,e,e,d,d,d,d,d,e,e,e,d,d,d,d,d,e,e, , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , ,e,e,d,d,d,e,e, ,e,e,d,d,d,e,e, , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , ,e,e,e,e,e, , , ,e,e,e,e,e, , , , , , , , , , , , , , , , , , , , , , , , , , 
